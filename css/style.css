@@ -1,0 +1,30 @@
+*{
+  box-sizing:border-box;
+}
+.container{
+  width:1000px;
+  height:100%;
+}
+.top-height{
+  height:50px;
+}
+.navbar{
+  background-color:#59FF49;
+}
+.col-md-2{
+  border:3px solid #E2E836;
+  height:100%;
+}
+.border{
+  border:3px solid #E2E836;
+  height:100%;
+}
+.topbar{
+  background-color:#3CFFB9;
+}
+.col-md-12{
+  background-color:#000;
+}
+.descript{
+  background-color:#000;
+}
